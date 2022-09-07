@@ -1,0 +1,319 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: white;
+}
+
+.empire{
+    font-weight: 600;
+}
+.col{
+    margin-left: 50px;
+    margin-top: 50px;
+    font-family: 'Arial';
+    font-size: 20px;
+}
+.icons{
+    margin-left: 500px;
+    display: flex;
+    /* justify-content: space-around; */
+}
+.ico{
+    margin-left: 30px;
+}
+.icon{
+    margin-left: 30px;  
+}
+.menu{
+    margin-left: 600px;  
+    color: #000;
+}
+.some{
+    margin-top: -25px;
+}
+.great{
+    margin-top: -30px;
+}
+.to{
+    margin-top: -30px 
+}
+.lorem{
+    margin-left: 50px; 
+    font-weight: 200;
+  
+}
+.n{
+    margin-top: -10px;   
+}
+.o{
+    margin-top: -10px;   
+}
+.p{
+    margin-top: -10px;   
+}
+.button{
+    background-color: lightgreen;
+    color: black;
+    width: 97px;
+    height: 40px;
+    margin-left: 50px;
+    border: none;
+    margin-top: 40px;
+    font-weight: 600;
+}
+.gr{
+    margin-left: -100px;
+    margin-top: 30px;
+}
+.laptop{
+    margin-left: 700px;
+    margin-top: -320px; 
+    z-index: 1; 
+}
+.lap{
+    width: 300px;
+    height: 400px;
+  
+
+    
+   
+}
+.tu{
+    margin-left: 700px;
+    margin-top: -404px;  
+  
+}
+.pa{
+    width: 300px;
+    height: 400px;
+  
+   transform: rotate(20deg);
+}
+
+.ba{
+    display: flex;
+    background-color: black;
+    color: white;
+    font-family: 'Cambria';
+    width: 1300px;
+    margin-top: 100px;
+    margin-left: -20px;
+
+}
+.ab{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.spread{
+    margin-left: 500px;
+}
+.ob{
+    margin-top: -30px;
+}
+.ag{
+    margin-left: 40px;
+    font-size: 20px;
+}
+.ll{
+    font-size: 19px;
+}
+.lj{
+    font-size: 19px; 
+    margin-top: -20px; 
+}
+
+.fresh{
+    display: flex;
+    margin-top: 140px;
+    margin-left: -1230px;
+    justify-content: space-around;
+}
+.k{
+    margin-left: 200px;
+}
+.j{
+    margin-left: 200px;
+}
+.dess{
+    font-size: 30px;
+    margin-top: 4px; 
+    font-weight: 800;
+}
+.don{
+    margin-top: -20px;  
+}
+.lm{
+    text-align: center;
+    margin-top: 60px;
+    font-size: 30px;
+}
+.ort{
+    font-size: 40px;
+    margin-left: 200px;
+}
+.pk{
+  margin-top: -23px;
+  font-weight: 100;
+}
+.at{
+    margin-top: -13px;
+    font-weight: 100;
+}
+.pro{
+    width: 300px;
+    height: 250px;
+  
+}
+
+.proj{
+    width: 300px;
+    height: 250px;
+}
+.big{
+margin-top: 90px;
+}
+.simple{
+    font-family: 'Times new roman';
+    font-weight: 900;
+    font-size: 20px;
+}
+
+.sha{
+    margin-left: 450px;
+    margin-top: -310px;
+}
+.proje{
+    width: 300px;
+    height: 250px;
+}
+.shak{
+    margin-left: 900px;
+    margin-top: -310px;
+}
+.shakk{
+    margin-top: 98px;
+}
+.projec{
+    width: 300px;
+    height: 250px;
+}
+.shakkk{
+    margin-left: 450px;
+    margin-top: -330px;
+}
+.project{
+    width: 300px;
+    height: 250px;
+}
+.projectt{
+    width: 300px;
+    height: 250px;
+}
+.shakkkkk{
+    margin-left: 900px;
+    margin-top: -320px;
+}
+.div{
+    display: flex;
+    margin-top: 50px;
+}
+.kn{
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.ss{
+    margin-top: -40px;
+}
+.grid{
+    margin-left: 400px;
+    margin-top: 10px;
+}
+.bl{
+    margin-top: -10px;
+}
+.bp{
+    margin-top: -10px;
+}
+.footer{
+    margin-top: 50px;
+    background-color: #000;
+    color: #fff;
+    width: 1300px;
+    display: flex;
+}
+.goo{
+    margin-left: 50px;
+    /* font-size: 30px; */
+}
+.too{
+    font-family:'Lucida Handwriting';
+    margin-top: -30px;
+    margin-left: 40px;
+}
+.les{
+    font-family: 'Garamond';
+    font-size: 40px;
+   
+}
+.gooo{
+    margin-left: 300px;
+    margin-top: 10px;
+}
+.ea,.ear{
+    margin-top: -10px;
+}
+.let{
+    background-color: lightgreen;
+    color: black;
+    width: 97px;
+    height: 30px;
+    margin-left: -500px;
+    border: none;
+    margin-top: 130px;
+    font-weight: 600;
+}
+.class{
+    text-decoration: none;
+    color: #000;
+}
+.uprig{
+    margin-top: 200px;
+    margin-left: -600px;
+}
+.bio{
+    font-size: 20px;
+}
+.twi{
+    margin-top: -16px;
+    margin-left: 30px;
+}
+.ins{
+    margin-top: -16px;
+    margin-left: 60px;  
+}
+.home{
+    margin-top: 199px;
+    margin-left: 200px;
+}
+.fl{
+    display: flex;
+}
+.et{
+margin-top: -15px;
+}
+.add{
+    font-size: 14px;
+}
+.dm{
+    color: lightblue;
+}
+.stree{
+    margin-top: -15px; 
+}
+.mail{
+    margin-top: -20px;   
+}
+/* .push{
+    margin-top: 400px;
+  margin-left: -650px;
+} */
